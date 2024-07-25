@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_12"
+type="Resource"
+uid="uid://7w88obwwk5r6"
+path="res://.godot/imported/start_meeting.dialogue-d7e4155c74878a4becd49f2cce806782.tres"
+
+[deps]
+
+source_file="res://interactions/dialogue/start_meeting.dialogue"
+dest_files=["res://.godot/imported/start_meeting.dialogue-d7e4155c74878a4becd49f2cce806782.tres"]
+
+[params]
+
+defaults=true

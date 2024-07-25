@@ -1,0 +1,35 @@
+~ start
+
+Nathan: Welcome to your new office.
+Nathan: You are the new CEO of a secretive research organisation dedicated to creating Superintelligence.
+Nathan: The Artificial Intelligence technologies that you create have the power to transform the world, for better or worse.
+Nathan: Today, you will meet with the leaders of the various departments in the organisation.
+Nathan: They all hope to take the company in markedly different directions, and are vying for your support.
+Nathan: Good luck with them, they forced me out of the company. I hope you can have a better outcome.
+
+Head of Investor Relations: Welcome to my office, I am delighted to see you here.
+Head of Investor Relations: Together we have great potential, and it's my job to help you realise it.
+Head of Investor Relations: We can be the next big thing. We can revolutionise the world with our technology.
+Head of Investor Relations: And, most importantly, we can get rich together!
+Head of Investor Relations: Sadly, the gross mismanagement of our former CEO left us in mountains of debt, and our company value is struggling as a result.
+Head of Investor Relations: Can I trust you to put the company first, and lead us to untold riches by following my advice?
+- Of course
+	Head of Investor Relations: Great, I am glad to hear that. 
+	Head of Investor Relations: We can meet again soon to discuss my monetisation plan and move towards profitability in the medium-term.
+- Over what?
+	Head of Investor Relations: Some people in our company belive that we should focus on protecting people from the potential dangers of our technologies.
+	Head of Investor Relations: Try your very best to ignore their frivolous 'dangers'. They create these nonsensical theories to derail my certain success.
+	Head of Investor Relations: And besides, we'll be too busy partying on our yachts to be affected by these, in a few years time.
+Head of Investor Relations: See you soon, and good luck with the others.
+
+Head of Government Relations: Hi, and thank you for attending this meeting.
+Head of Government Relations: The recent AI regulation law means that every company has to "Make efforts to use emerging technologies to serve national interests."
+Head of Government Relations: I previously worked in the very government department that wrote that goal, but now I am here to help you do that.
+Head of Government Relations: With the technology you are developing, we could win wars without a single drop of blood being shed on either side, with information warfare.
+Head of Government Relations: We could establish ourselves as the one dominant nation, if we are able to harness your technology.
+Head of Government Relations: And we could get rich off subsidies in the process!
+Head of Government Relations: But, I have one warning. We must prevent this technology from falling into the hands of the enemy, at all costs.
+Head of Government Relations: That would be truly devastating.
+#I need to keep at this.
+
+=> END

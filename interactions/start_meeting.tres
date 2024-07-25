@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="DialogueInteraction" load_steps=2 format=3 uid="uid://dwjy4ktbf2yac"]
+
+[ext_resource type="Script" path="res://scripts/dialogue_interaction.gd" id="1_50yu0"]
+
+[resource]
+script = ExtResource("1_50yu0")
+path_to_dialogue = NodePath("")
+turn = 0
+interaction_name = "Welcome to Office!"
